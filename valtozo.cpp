@@ -13,7 +13,7 @@ int main()
     a = b - a;
     b = b - a;
     a = b + a;
-    cout << "Kivonással:\n" << "a= " << a << "\nb= " << b << "\n";
+    cout << "Kivonás-összeadással:\n" << "a= " << a << "\nb= " << b << "\n";
     a = a * b;
     b = a / b;
     a = a / b;
